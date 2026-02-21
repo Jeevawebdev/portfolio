@@ -1,0 +1,86 @@
+{
+  "personal": {
+    "name": "Jeeva Chinnasamy",
+    "title": "Full-Stack Developer",
+    "tagline": "Building innovative digital experiences with clean code and responsive designs",
+    "bio": "Hi, I'm Jeeva, a dedicated full-stack web developer driven by a passion for creating innovative digital experiences. With expertise in HTML, CSS, JavaScript, and backend technologies, I bring ideas to life through clean code and responsive designs. My projects range from dynamic e-commerce websites to unique interactive applications. I enjoy solving complex problems and turning challenges into opportunities for growth. Always eager to learn and evolve, I aim to deliver impactful and user-friendly solutions.",
+    "profileImage": "https://jeevachinnasamy.netlify.app/assets/jeeva11.jpg",
+    "aboutTitle": "About Me",
+    "expYears": "Fresher",
+    "projectCount": 3,
+    "degree": "B.E ECE"
+  },
+  "skills": [
+    { "name": "HTML", "level": 95 },
+    { "name": "CSS", "level": 90 },
+    { "name": "JavaScript", "level": 75 },
+    { "name": "Git & GitHub", "level": 70 },
+    { "name": "Bootstrap", "level": 70 },
+    { "name": "Tailwind", "level": 50 },
+    { "name": "Node.js", "level": 65 },
+    { "name": "PostgreSQL", "level": 40 },
+    { "name": "Java", "level": 45 },
+    { "name": "Python", "level": 30 }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Bus Reservation System",
+      "description": "A Java-based bus reservation application with booking management, seat selection, and user authentication features.",
+      "image": "https://jeevachinnasamy.netlify.app/assets/sahara-bus-travels-service.png",
+      "tech": ["Java", "JDBC", "MySQL"],
+      "liveUrl": "",
+      "githubUrl": "https://github.com/jeeva1822/BusReservationusingjava"
+    },
+    {
+      "id": 2,
+      "title": "Food E-Commerce",
+      "description": "A responsive food ordering website with cart functionality, menu browsing, and checkout features.",
+      "image": "https://jeevachinnasamy.netlify.app/assets/Screenshot%202024-12-22%20233259.png",
+      "tech": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+      "liveUrl": "https://foodiegoodie.netlify.app/",
+      "githubUrl": "https://github.com/jeeva1822/Foodie"
+    },
+    {
+      "id": 3,
+      "title": "E-Commerce Store",
+      "description": "A modern e-commerce frontend with product catalog, shopping cart, and responsive design for all devices.",
+      "image": "https://jeevachinnasamy.netlify.app/assets/screens1.png",
+      "tech": ["HTML", "CSS", "JavaScript", "Tailwind"],
+      "liveUrl": "https://slay4skinn.netlify.app/",
+      "githubUrl": "https://github.com/jeeva1822/slay4skin"
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "company": "SLA Institute",
+      "role": "Full-Stack Developer Trainee",
+      "duration": "2023 - 2024",
+      "description": "Completed intensive Java full-stack development training. Learned modern web technologies including HTML, CSS, JavaScript, Java, and database management."
+    },
+    {
+      "id": 2,
+      "company": "Freelance",
+      "role": "Web Developer",
+      "duration": "2023 - Present",
+      "description": "Building responsive websites and web applications for clients. Focus on creating user-friendly interfaces and clean, maintainable code."
+    }
+  ],
+  "education": {
+    "degree": "B.E Electronics and Communication Engineering",
+    "institution": "Engineering College",
+    "year": "2020 - 2024"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/jeevawebd",
+    "github": "https://github.com/jeeva1822",
+    "twitter": "",
+    "email": "jeevawebdev1@gmail.com"
+  },
+  "contact": {
+    "email": "jeevawebdev1@gmail.com",
+    "phone": "+91 9345678901",
+    "address": "Tamil Nadu, India"
+  }
+}
